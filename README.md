@@ -1,2 +1,2 @@
-# Bal._Orai
+# D. B.
 PHP órai megoldások.
