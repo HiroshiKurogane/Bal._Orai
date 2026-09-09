@@ -1,2 +1,2 @@
 # D. B.
-PHP órai megoldások.
+PHP/Adatbázis órai jegyzetek.
